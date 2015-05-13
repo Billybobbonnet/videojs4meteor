@@ -10,3 +10,7 @@ Two main differences with the other similar packages:
 ### Installation
 
 type ```meteor add billybobbonnet:videojs4meteor```
+
+### You want video.js to be updated?
+
+If video.js is outdated, you can fork, replace the content of video-js files by the new ones and create a pull request. 
