@@ -2,10 +2,11 @@
 
 This package allows you to integrate video.js in your meteor application.
 
-Two main differences with the other similar packages:
+### Read first
 
-  - Video.js is up to date
-  - Video.js is loaded as an asset so you wont have any file type errors
+I would advise to use videojs directly following my instructions here: https://github.com/videojs/video.js/wiki/Integrate-video.js-in-meteor
+
+This package is not satisfying as-is. See the wiki page for explanations.
 
 ### Installation
 
